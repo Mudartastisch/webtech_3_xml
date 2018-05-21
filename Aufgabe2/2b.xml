@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<database>
+
+    <!-- Autoren -->
+    <author authorID="MM">
+        <name>Max Mustermann</name>
+    </author>
+    <author authorID="LvM">
+        <name>Lorenzo von Matterhorn</name>
+    </author>
+    <author authorID="KK">
+        <name>Karla Kolumna</name>
+    </author>
+
+    <!-- Werke -->
+    <book bookID="_01">
+        <title>Spielsucht in Shanghai</title>
+        <writtenBy>MM</writtenBy>
+        <writtenBy>LvM</writtenBy>
+    </book>
+    <book bookID="_02">
+        <title>Der Elefant aus dem Zoo</title>
+        <writtenBy>KK</writtenBy>
+    </book>
+
+</database>
